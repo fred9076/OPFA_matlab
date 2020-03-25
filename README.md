@@ -1,4 +1,4 @@
-# RZPFA_matlab
+# RZPFA3_matlab
 A demo of Gotcha Large Scence data imaging via RZPFA3
 
 When using this code please cite the relevant paper below: 
