@@ -1,7 +1,7 @@
 # RZPFA_matlab
 A demo of Gotcha Large Scence data imaging via RZPFA3
 
-When using this code please cite the relevant paper below: 
+When using this code please cite the relevant papers below: 
 
     [1] Hu, Ruizhi, et al. "Refocusing and Zoom-In Polar Format Algorithm for Curvilinear Spotlight SAR Imaging on Arbitrary Region of Interest." IEEE Transactions on Geoscience and Remote Sensing 57.10 (2019): 7995-8012
 
@@ -20,6 +20,6 @@ with registration
 
     [2] The type 3 nonuniform FFT and its applications: (J.-Y. Lee and L. Greengard) J. Comput. Phys. 206, 1 (2005).
 
-    Other NuFFT-3 schemes may also applicable, such as FINUFFT on: https://finufft.readthedocs.io/en/latest/
+    Other NuFFT-3 schemes may also be applicable, such as FINUFFT on: https://finufft.readthedocs.io/en/latest/
 
 3) db20.m is just a simple function to show image in Decibel
