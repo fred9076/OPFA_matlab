@@ -11,7 +11,8 @@ https://www.sdms.afrl.af.mil./content/public-data/s3_scripts/index.php?file=Gotc
 with registration
 
 2) NuFFT-3 code in this program is provided on: https://cims.nyu.edu/cmcl/nufft/nufftall-1.3.3.tar.gz 
-Please also cite their papers below if you are using their codes. 
+
+    Please also cite their papers below if you are using their codes. 
 
     [1] Accelerating the Nonuniform Fast Fourier Transform: (L. Greengard and J.-Y. Lee) SIAM Review 46, 443 (2004).
 
