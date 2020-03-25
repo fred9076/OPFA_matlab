@@ -17,6 +17,6 @@ Please also cite their papers below if you are using their codes.
 
     [2] The type 3 nonuniform FFT and its applications: (J.-Y. Lee and L. Greengard) J. Comput. Phys. 206, 1 (2005).
 
-Other NuFFT-3 schemes may also applicable, such as FINUFFT on: https://finufft.readthedocs.io/en/latest/
+    Other NuFFT-3 schemes may also applicable, such as FINUFFT on: https://finufft.readthedocs.io/en/latest/
 
 3) db20.m is just a simple function to show image in Decibel
