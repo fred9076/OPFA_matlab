@@ -3,7 +3,9 @@ A demo of Gotcha Large Scence data imaging via RZPFA3
 
 When using this code please cite the relevant paper below: 
 
-Hu, Ruizhi, et al. "Refocusing and Zoom-In Polar Format Algorithm for Curvilinear Spotlight SAR Imaging on Arbitrary Region of Interest." IEEE Transactions on Geoscience and Remote Sensing 57.10 (2019): 7995-8012
+    [1] Hu, Ruizhi, et al. "Refocusing and Zoom-In Polar Format Algorithm for Curvilinear Spotlight SAR Imaging on Arbitrary Region of Interest." IEEE Transactions on Geoscience and Remote Sensing 57.10 (2019): 7995-8012
+
+    [2] Hu, Ruizhi, et al. "Curvilinear Video-SAR Persistent Imaging with Distortion Correction Based on Nufft-3." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019
 
 Dependencies: 
 1) Gotcha Large Scene data (Disc1.zip and Disc2.zip) are avaiable on
