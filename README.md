@@ -4,11 +4,12 @@ A demo of Gotcha Large Scene data imaging via RZPFA3
 When using this code please cite the relevant papers below: 
 
     [1] Hu, Ruizhi, et al. "Refocusing and Zoom-In Polar Format Algorithm for Curvilinear Spotlight SAR Imaging on Arbitrary Region of Interest." IEEE Transactions on Geoscience and Remote Sensing 57.10 (2019): 7995-8012
-    
+    [2] Hu, Ruizhi, et al. "Curvilinear Video-SAR Persistent Imaging with Distortion Correction Based on Nufft-3." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019
+
+The papers are available on:
+
 https://www.researchgate.net/publication/333733708_Refocusing_and_Zoom-In_Polar_Format_Algorithm_for_Curvilinear_Spotlight_SAR_Imaging_on_Arbitrary_Region_of_Interest
 
-    [2] Hu, Ruizhi, et al. "Curvilinear Video-SAR Persistent Imaging with Distortion Correction Based on Nufft-3." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019
-    
 https://www.researchgate.net/publication/332462307_Curvilinear_Video-SAR_Persistent_Imaging_with_Distortion_Correction_Based_on_NuFFT-3
 
 Dependencies: 
