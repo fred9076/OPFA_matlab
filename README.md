@@ -21,9 +21,7 @@ https://www.researchgate.net/publication/332462307_Curvilinear_Video-SAR_Persist
 4) opfaw.m : Imgaing function with DEM (OPFA in [1])
 5) opfawo.m : Imgaing function without DEM (RZPFA-3 in [2])
 6) db20.m : a simple function to show image in Decibel
-## Results
-![image](https://github.com/fred9076/OPFA_matlab/master/result1.png)
-![image](https://github.com/fred9076/OPFA_matlab/master/result2.png)
+
 ## Dependencies: 
 1) Gotcha Large Scene data (Disc1.zip and Disc2.zip) are avaiable on
 https://www.sdms.afrl.af.mil./content/public-data/s3_scripts/index.php?file=GotchaLargeSceneData-Disc1.zip
@@ -43,5 +41,8 @@ with registration
 
     Other NuFFT-3 schemes is be applicable, such as FINUFFT on: https://finufft.readthedocs.io/en/latest/
     Quite fast, but tend to crush when data or image is large.
-    * Barnett, Alexander H., Jeremy Magland, and Ludvig af Klinteberg. "A Parallel Nonuniform Fast Fourier Transform Library Based on an “Exponential of Semicircle" Kernel." SIAM Journal on Scientific Computing 41.5 (2019): C479-C504.
+    * Barnett, Alexander H., Jeremy Magland, and Ludvig af Klinteberg. "A Parallel Nonuniform Fast Fourier Transform Library Based on an “Exponential of Semicircle" Kernel."     SIAM Journal on Scientific Computing 41.5 (2019): C479-C504.
 
+## Results
+![image](https://github.com/fred9076/OPFA_matlab/blob/master/result1.png)
+![image](https://github.com/fred9076/OPFA_matlab/blob/master/result2.png)
