@@ -21,8 +21,9 @@ https://www.researchgate.net/publication/332462307_Curvilinear_Video-SAR_Persist
 4) opfaw.m : Imgaing function with DEM (OPFA in [1])
 5) opfawo.m : Imgaing function without DEM (RZPFA-3 in [2])
 6) db20.m : a simple function to show image in Decibel
-
-
+## Results
+![image](https://github.com/fred9076/OPFA_matlab/master/result1.png)
+![image](https://github.com/fred9076/OPFA_matlab/master/result2.png)
 ## Dependencies: 
 1) Gotcha Large Scene data (Disc1.zip and Disc2.zip) are avaiable on
 https://www.sdms.afrl.af.mil./content/public-data/s3_scripts/index.php?file=GotchaLargeSceneData-Disc1.zip
